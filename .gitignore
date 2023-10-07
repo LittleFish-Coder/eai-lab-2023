@@ -3,3 +3,6 @@
 /*/*.csv
 /*/*.docx
 /*/*.pptx
+/*/__pycache__
+/*/data
+/*/tensorboard
