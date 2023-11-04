@@ -8,3 +8,4 @@
 /*/tensorboard
 .vscode
 __pycache__
+*.pth
