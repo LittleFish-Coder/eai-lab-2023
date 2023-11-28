@@ -5,7 +5,9 @@
 /*/*.pptx
 /*/__pycache__
 /*/data
+/*/dataset
 /*/tensorboard
 .vscode
 __pycache__
 *.pth
+*.pt
